@@ -1,0 +1,1 @@
+Get-LocalUser | Where-Object -Property Enabled -eq True | Select-Object Name,Description
