@@ -13,3 +13,5 @@ PS C:\Users\user> .\Get-EnabledLocalUsers.ps1
 **Get-EnabledLocalUsers.ps1** - Show all enabled users on the system   
 **Get-ProcessMemoryUsage.ps1** - Show the most memory hungry processes on the system   
 **Start-VirtualMachines.ps1** - Start virtual machines (**VirtualBox**)   
+**Get-PublicIPAddress.ps1** - Display your public IP adress  
+**Get-VolumeSize.ps1** - Show all volumes and there size  
