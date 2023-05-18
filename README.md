@@ -15,3 +15,4 @@ PS C:\Users\user> .\Get-EnabledLocalUsers.ps1
 **Start-VirtualMachines.ps1** - Start virtual machines (**VirtualBox**)   
 **Get-PublicIPAddress.ps1** - Display your public IP adress  
 **Get-VolumeSize.ps1** - Show all volumes and their size  
+**Get-InstalledApplications.ps1** - Show all installed applications on the system   
