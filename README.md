@@ -16,3 +16,4 @@ PS C:\Users\user> .\Get-EnabledLocalUsers.ps1
 **Get-PublicIPAddress.ps1** - Display your public IP adress  
 **Get-VolumeSize.ps1** - Show all volumes and their size  
 **Get-InstalledApplications.ps1** - Show all installed applications on the system   
+**Edit-HostsFile.ps1** - Edit the hosts file with administrator privileges   
