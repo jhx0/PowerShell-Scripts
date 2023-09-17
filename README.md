@@ -17,3 +17,7 @@ PS C:\Users\user> .\Get-EnabledLocalUsers.ps1
 **Get-VolumeSize.ps1** - Show all volumes and their size  
 **Get-InstalledApplications.ps1** - Show all installed applications on the system   
 **Edit-HostsFile.ps1** - Edit the hosts file with administrator privileges   
+**Install-SophosVPN.ps1** - Does a silent install of the Sophos OpenVPN client   
+**NIC-Teaming.ps1** - Small GUI utility to generate a NIC Teaming command for HyperV   
+**Set-EnvMinGW.ps1** - Adds MinGW to the Path variable (Global)   
+**Clear-TeamsCacheAllUsers.ps1** - Clears the MS Teams cache for all users   
