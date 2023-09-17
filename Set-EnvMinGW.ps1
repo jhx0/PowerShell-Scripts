@@ -1,0 +1,2 @@
+[Environment]::SetEnvironmentVariable("Path", $env:Path + ";C:\MinGW", [System.EnvironmentVariableTarget]::Machine)
+[Environment]::SetEnvironmentVariable("Path", $env:Path + ";C:\MinGW\bin", [System.EnvironmentVariableTarget]::Machine)
