@@ -21,3 +21,4 @@ PS C:\Users\user> .\Get-EnabledLocalUsers.ps1
 **NIC-Teaming.ps1** - Small GUI utility to generate a NIC Teaming command for HyperV   
 **Set-EnvMinGW.ps1** - Adds MinGW to the Path variable (Global)   
 **Clear-TeamsCacheAllUsers.ps1** - Clears the MS Teams cache for all users   
+**Get-Screenshot.ps1** - Take a screenshot (Current monitor or all monitors)   
