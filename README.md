@@ -22,3 +22,4 @@ PS C:\Users\user> .\Get-EnabledLocalUsers.ps1
 **Set-EnvMinGW.ps1** - Adds MinGW to the Path variable (Global)   
 **Clear-TeamsCacheAllUsers.ps1** - Clears the MS Teams cache for all users   
 **Get-Screenshot.ps1** - Take a screenshot (Current monitor or all monitors)   
+**Resolve-DNS.ps1** - Resolve a given domain name to a IP Address (IPv4/IPv6)   
