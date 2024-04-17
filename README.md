@@ -24,3 +24,4 @@ PS C:\Users\user> .\Get-EnabledLocalUsers.ps1
 **Get-Screenshot.ps1** - Take a screenshot (Current monitor or all monitors)   
 **Enable-GodMode.ps1** - Enables God Mode (Check your desktop)   
 **Resolve-DNS.ps1** - Resolve a given domain name to a IP Address (IPv4/IPv6)   
+**Do-Speedtest.ps1** - Doing a speedtest on the cli
